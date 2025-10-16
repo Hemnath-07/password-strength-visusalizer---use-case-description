@@ -46,6 +46,6 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests f
 This project is open source and available under the MIT License.
 
 ## Contact
-Your Name – your.email@example.com  
+Name – Hemnath S   
 Project Link: https://github.com/yourusername/password-strength-visualizer
 
