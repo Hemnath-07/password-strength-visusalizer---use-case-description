@@ -47,5 +47,5 @@ This project is open source and available under the MIT License.
 
 ## Contact
 Name – Hemnath S   
-Project Link: https://github.com/yourusername/password-strength-visualizer
+Project Link: https://password-strength-visusualizer.netlify.app/
 
